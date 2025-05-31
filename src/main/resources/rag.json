@@ -1,0 +1,33 @@
+[
+  {"Name": "Gazpromneft", "Segment": "large", "DollarSaleCondition": "5%"},
+  {"Name": "Sberbank", "Segment": "large", "DollarSaleCondition": "5%"},
+  {"Name": "Rosneft", "Segment": "large", "DollarSaleCondition": "5%"},
+  {"Name": "Rostec", "Segment": "large", "DollarSaleCondition": "5%"},
+  {"Name": "Lukoil", "Segment": "large", "DollarSaleCondition": "5%"},
+  {"Name": "Russian Railways", "Segment": "large", "DollarSaleCondition": "5%"},
+
+  {"Name": "Rusal", "Segment": "medium", "DollarSaleCondition": "6%"},
+  {"Name": "Norilsk Nickel", "Segment": "medium", "DollarSaleCondition": "6%"},
+  {"Name": "PhosAgro", "Segment": "medium", "DollarSaleCondition": "6%"},
+  {"Name": "Severstal", "Segment": "medium", "DollarSaleCondition": "6%"},
+  {"Name": "Alrosa", "Segment": "medium", "DollarSaleCondition": "6%"},
+  {"Name": "Inter RAO", "Segment": "medium", "DollarSaleCondition": "6%"},
+  {"Name": "Tatneft", "Segment": "medium", "DollarSaleCondition": "6%"},
+
+  {"Name": "Acron", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "Evraz", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "NLMK", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "Magnit", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "X5 Retail Group", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "M.Video-Eldorado", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "Detsky Mir", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "Wildberries", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "Yandex", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "Post Bank", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "Cherkizovo Group", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "O'Key", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "Dixy", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "Svyaznoy", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "Elfa", "Segment": "small", "DollarSaleCondition": "10%"},
+  {"Name": "Tinkoff Bank", "Segment": "small", "DollarSaleCondition": "10%"}
+]
